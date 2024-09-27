@@ -56,18 +56,4 @@ Open your browser and navigate to the URL provided in the terminal (usually http
 Enter the text you want to classify in the text area and click the "Predict" button.
 
 The app will display the predicted class: "positive" or "negative".
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; text-align: center;">
-    <img src="output/positive.PNG" alt="Image 1" width="350" />
-    <p>Image Description 1</p>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="output/negative.PNG" alt="Image 2" width="350" />
-    <p>Image Description 2</p>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="output/neutral.PNG" alt="Image 3" width="350" />
-    <p>Image Description 3</p>
-  </div>
-</div>
-
+| ![Image 1](images/positive.PNG) | ![Image 2](images/negative.PNG) | ![Image 3](images/neutral.PNG) |
