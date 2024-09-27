@@ -57,7 +57,7 @@ Enter the text you want to classify in the text area and click the "Predict" but
 
 The app will display the predicted class: "positive" or "negative".
 
-<img src="output/positive.PNG" width=340 alt="Little example"></img> 
-<img src="output/negative.PNG" width=350 alt="Little example"></img>
-<img src="output/neutral.PNG" width=350 alt="Little example"></img>
+<img src="output/positive.PNG" width=450 alt="Little example"></img> 
+<img src="output/negative.PNG" width=420 alt="Little example"></img>
+<img src="output/neutral.PNG" width=450 alt="Little example"></img>
 
