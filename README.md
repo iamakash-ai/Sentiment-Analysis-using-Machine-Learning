@@ -58,5 +58,15 @@ Enter the text you want to classify in the text area and click the "Predict" but
 The app will display the predicted class: "positive" or "negative".
 
 <img src="output/positive.PNG" width=450 alt="Little example"></img> 
+<img src="output/negative.PNG" width=450 alt="Little example"></img>
 <img src="output/neutral.PNG" width=450 alt="Little example"></img>
+
+
+
+### Instructions to Use the Template:
+1. Replace `yourusername` and `your-repo-name` with your GitHub username and repository name.
+2. Save this content in a file named `README.md` in your project directory.
+3. Adjust any sections as needed based on your project's specifics or additional features.
+
+Feel free to ask if you need further modifications or additions!
 
