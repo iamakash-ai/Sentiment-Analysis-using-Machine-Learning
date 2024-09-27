@@ -56,4 +56,8 @@ Open your browser and navigate to the URL provided in the terminal (usually http
 Enter the text you want to classify in the text area and click the "Predict" button.
 
 The app will display the predicted class: "positive" or "negative".
-| ![Positive](output/positive.PNG) | ![Negative](output/negative.PNG) | ![Neutral](output/neutral.PNG) |
+
+<img src="output/positive.PNG" width=300 alt="Little example"></img> 
+<img src="output/negative.PNG" width=300 alt="Little example"></img>
+<img src="output/neutral.PNG" width=300 alt="Little example"></img>
+
